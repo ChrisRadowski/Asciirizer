@@ -1,8 +1,0 @@
-D:\Repository\Asciirizer\AsciirizerLib\bin\Debug\netcoreapp2.1\AsciirizerLib.deps.json
-D:\Repository\Asciirizer\AsciirizerLib\bin\Debug\netcoreapp2.1\AsciirizerLib.dll
-D:\Repository\Asciirizer\AsciirizerLib\obj\Debug\netcoreapp2.1\AsciirizerLib.csproj.CoreCompileInputs.cache
-D:\Repository\Asciirizer\AsciirizerLib\obj\Debug\netcoreapp2.1\AsciirizerLib.AssemblyInfoInputs.cache
-D:\Repository\Asciirizer\AsciirizerLib\obj\Debug\netcoreapp2.1\AsciirizerLib.AssemblyInfo.cs
-D:\Repository\Asciirizer\AsciirizerLib\bin\Debug\netcoreapp2.1\AsciirizerLib.pdb
-D:\Repository\Asciirizer\AsciirizerLib\obj\Debug\netcoreapp2.1\AsciirizerLib.dll
-D:\Repository\Asciirizer\AsciirizerLib\obj\Debug\netcoreapp2.1\AsciirizerLib.pdb

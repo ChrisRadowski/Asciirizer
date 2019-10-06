@@ -18,7 +18,7 @@ namespace AsciirizerCmd
             if (args.Length == 0)
             {
                 Console.Error.WriteLine("No arguments provided");
-                Console.Out.WriteLine($"Usage: {AppDomain.CurrentDomain.FriendlyName} sourceImagePath [targetDirectoryPath]");
+                Console.Out.WriteLine($"Usage: {AppDomain.CurrentDomain.FriendlyName}.exe sourceImagePath [targetDirectoryPath]");
                 Environment.Exit(1);
             }
 
