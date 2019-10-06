@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AsciirizerCmd": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\SIRHC\\Desktop\\bojack1.jpg"
+    }
+  }
+}

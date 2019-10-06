@@ -1,0 +1,8 @@
+D:\Repository\Asciirizer\AsciirizerLib\bin\Debug\netcoreapp3.0\AsciirizerLib.deps.json
+D:\Repository\Asciirizer\AsciirizerLib\bin\Debug\netcoreapp3.0\AsciirizerLib.dll
+D:\Repository\Asciirizer\AsciirizerLib\bin\Debug\netcoreapp3.0\AsciirizerLib.pdb
+D:\Repository\Asciirizer\AsciirizerLib\obj\Debug\netcoreapp3.0\AsciirizerLib.csprojAssemblyReference.cache
+D:\Repository\Asciirizer\AsciirizerLib\obj\Debug\netcoreapp3.0\AsciirizerLib.AssemblyInfoInputs.cache
+D:\Repository\Asciirizer\AsciirizerLib\obj\Debug\netcoreapp3.0\AsciirizerLib.AssemblyInfo.cs
+D:\Repository\Asciirizer\AsciirizerLib\obj\Debug\netcoreapp3.0\AsciirizerLib.dll
+D:\Repository\Asciirizer\AsciirizerLib\obj\Debug\netcoreapp3.0\AsciirizerLib.pdb
