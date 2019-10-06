@@ -1,30 +1,24 @@
-﻿using System.Drawing;
+﻿using System.Collections.Generic;
+using System.Collections.ObjectModel;
+using System.Drawing;
 
 namespace AsciirizerLib.FontHandling
 {
-    partial class FontProvider
+    public class FontInfo
     {
-        private class FontInfo : IFontInfo
+        public Font Font { get; }
+
+        public int Width { get; }
+        public int Height { get; }
+
+        public ReadOnlyDictionary<Bitmap, string> CharacterMap { get; }
+
+        public FontInfo(Font font, Size measure, IDictionary<Bitmap, string> characterMap)
         {
-            private const char ReferenceChar = 'X';
-
-            public Font Font { get; }
-            public Size Measure { get; }
-
-            public FontInfo(Font font)
-            {
-                Font = font;
-                Measure = CalculateMeasure(font).ToSize();
-            }
-
-            private SizeF CalculateMeasure(Font font)
-            {
-                using (var image = new Bitmap(1, 1))
-                using (var graphics = Graphics.FromImage(image))
-                {
-                    return graphics.MeasureString(ReferenceChar.ToString(), font);
-                }
-            }
+            Font = font;
+            Width = measure.Width;
+            Height = measure.Height;
+            CharacterMap = new ReadOnlyDictionary<Bitmap, string>(characterMap);
         }
     }
 }
